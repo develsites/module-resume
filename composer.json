@@ -1,0 +1,22 @@
+{
+    "name": "develsites/module-resume",
+    "description": "For test pursposes only",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "devel.sites@gmail.com",
+            "name": "DevelSitesResume"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DevelSites\\Resume\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
