@@ -1,10 +1,10 @@
 # Module DevelSites Resume
 
-    ``develsites/module-resume``
+    develsites/module-resume
 
- - [Main Functionalities](#markdown-header-main-functionalities)
- - [Installation](#markdown-header-installation)
- - [How To Use](#markdown-header-how-to-use)
+ - [Main Functionalities](#main-functionalities)
+ - [Installation](#installation)
+ - [How To Use](#how-to-use)
 
 
 ## Main Functionalities
